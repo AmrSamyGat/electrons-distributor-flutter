@@ -11,3 +11,4 @@ An open source mobile application for **distributing electrons to orbitals using
 <img src="https://i.ibb.co/dPQSkVC/Screenshot-20201120-183112.jpg" width="200" height="400" />
 
 <img src="https://i.ibb.co/jbyTJkw/Screenshot-20201120-183117.jpg" width="200" height="400" />
+
